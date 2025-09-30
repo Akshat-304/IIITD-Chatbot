@@ -1,4 +1,4 @@
-# 💡 AskAlma-IIITD: Stage 2 - Your Advanced RAG Assistant 🚀
+# 💡 IIITD ChatBot: Stage 2 - Your Advanced RAG Assistant 🚀
 
 ![AskAlma Concept Art (Replace with your actual image/logo if available)](./askalma_banner.png?raw=true "AskAlma") 
 <!-- Suggestion: Create a simple banner image for your project -->
