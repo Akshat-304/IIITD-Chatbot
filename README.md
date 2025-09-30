@@ -96,8 +96,7 @@ Our journey with AskAlma continues! We're exploring:
 ## 🤝 The Team & Contribution
 
 AskAlma was proudly developed by:
-*   Amartya Singh
-*   Abhishek Bansal
-*   Aditya Bagri
+*   Akshat Kothari
+*   Vinayak Agrawal
 
 We welcome insights and contributions from the community! (Please refer to standard GitHub practices for contributions).
