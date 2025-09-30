@@ -1,8 +1,5 @@
 # 💡 IIITD ChatBot: Stage 2 - Your Advanced RAG Assistant 🚀
 
-![AskAlma Concept Art (Replace with your actual image/logo if available)](./askalma_banner.png?raw=true "AskAlma") 
-<!-- Suggestion: Create a simple banner image for your project -->
-
 Welcome to **Stage 2** of the AskAlma project! AskAlma is an intelligent, Retrieval-Augmented Generation (RAG) chatbot meticulously crafted to navigate the vast information landscape of the IIIT-Delhi website. This enhanced version builds upon our foundational work (see `AskAlma_Report_Stage1.pdf`) to deliver even more accurate, context-aware, and conversationally adept responses.
 
 🔗 **Live Demo:** [Link to your deployed demo - e.g., Vercel, Netlify] *(Coming Soon!)*
